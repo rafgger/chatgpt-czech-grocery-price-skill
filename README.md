@@ -10,6 +10,9 @@ and complete basket totals.
 
 Compare butter and milk near Osov.
 
+<img width="800" alt="Screenshot 2026-08-15 160231" src="https://github.com/user-attachments/assets/6f88d2b5-de61-4712-9177-30438d84f311" />
+
+
 ## Installation
 
 Ask ChatGPT or Codex to install the skill from:
