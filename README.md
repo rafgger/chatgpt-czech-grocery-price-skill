@@ -16,8 +16,10 @@ Ask ChatGPT or Codex to install the skill from:
 
 https://github.com/rafgger/chatgpt-czech-grocery-price-skill/compare-czech-grocery-prices
 
+Or Upload the Zip under: Plugins → Skills → (+) → Upload from your computer
+
 ## Requirements
 
 The skill requires access to web search for current prices.
 Interactive browser access may be needed to verify delivery
-availability and location-specific offers.
+availability and location-specific offers. User Work mode in ChatGPT.
